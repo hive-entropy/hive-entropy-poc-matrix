@@ -1,4 +1,4 @@
-#include "ResultHandler.h"
+#include "../include/ResultHandler.h"
 
 ResultHandler::ResultHandler(/* args */)
 {
